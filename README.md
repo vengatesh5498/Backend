@@ -1,2 +1,2 @@
 # Backend
-Basic HTML, CSS and Javascript Exercises
+Basic Django Exercises
